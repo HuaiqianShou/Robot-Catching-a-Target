@@ -37,4 +37,20 @@ to execute the planner on map1 (Has to be run from MATLAB command window)
 ```sh
 runtest(‘map1.txt’)
 ```
+## Demo
+Robot: Green
+
+Target: Purple
+### Map 1
+![dda4fb7d83a8b0ecb05151de0ec18f4](https://user-images.githubusercontent.com/90527682/166162757-a0cdb6c0-a470-46e7-b8a4-be11d70149ba.png)
+### Map 2
+![1f13e6f79369ea7758645b2f197bcc1](https://user-images.githubusercontent.com/90527682/166162769-d4238e6e-6ac0-42ae-a6d0-89fd41f8cfe1.png)
+### Map 3
+![7d4d3ffd4a03f6c39913f97f2a57b0e](https://user-images.githubusercontent.com/90527682/166162777-98750df3-cc73-4d42-8a4a-506dc44a7b27.png)
+### Map 4
+![f587ba3565c9c84f607cc32bb431347](https://user-images.githubusercontent.com/90527682/166162781-0c6f6b68-ffd0-481f-b549-df294e2e4417.png)
+### Map 5
+![fed98cbc79fa503db865de8718f9e88](https://user-images.githubusercontent.com/90527682/166162787-cdab19e0-5301-44d3-b6ce-53e513300646.png)
+### Map 6
+![f0d56708fdd3efa43e6de0f1ca0b631](https://user-images.githubusercontent.com/90527682/166162790-44bd3d50-5eba-47ad-b75a-32a74e4bc57b.png)
 
