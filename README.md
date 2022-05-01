@@ -27,19 +27,17 @@ You can run matlab without the GUI using:
 matlab -nodesktop
 ```
 
-In MATLAB:
-
-to compile the cpp code (Has to be run from MATLAB command window)
+In MATLAB:   
+To compile the cpp code (Has to be run from MATLAB command window)
 ```sh
-mex planner.cpp
+>> mex planner.cpp
 ```
-to execute the planner on map1 (Has to be run from MATLAB command window)
+To execute the planner on map1 (Has to be run from MATLAB command window)
 ```sh
-runtest(‘map1.txt’)
+>> runtest(‘map1.txt’)
 ```
 ## Demo
-Robot: Green
-
+Robot: Green   
 Target: Purple
 ### Map 1
 ![dda4fb7d83a8b0ecb05151de0ec18f4](https://user-images.githubusercontent.com/90527682/166162757-a0cdb6c0-a470-46e7-b8a4-be11d70149ba.png)
